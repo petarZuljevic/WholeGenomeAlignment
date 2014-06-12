@@ -8,8 +8,8 @@ Primjer:
 			./run.sh H_pylori26695_Eslice.fasta H_pyloriJ99_Eslice.fasta izlaz
 
 			Rezultat pokretanja programa su 2 datoteke:
-						- \<naziv_outputa\>.txt = popis svih MUMova
-						- \<naziv_outputa\>.png = graficki prikaz poravnanja
+						- <naziv_outputa>.txt = popis svih MUMova
+						- <naziv_outputa>.png = graficki prikaz poravnanja
 
 Dodatne postavke:
 			U headeru Parameters.h postaviti parametere kriticne duljine itd.
