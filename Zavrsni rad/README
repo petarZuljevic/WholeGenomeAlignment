@@ -1,7 +1,0 @@
-Genome alignment is one of the major problems in bioinformatics that still have not been effectively resolved. 
-Although exact algorithms which would give optimal solution are known they are not used becouse of their long running time.
-
-
-In this thesis is described tool for genome alignment realized like multithreaded application written in C++.
-Tool is based on locating identical interval regions in given sequences by using suffix array, and after that 
-by using Smith-Waterman algorithm on regions in which MUMs were not found.
