@@ -2,6 +2,7 @@ Upute za pokretanje alata:
 --------------------------
 
 Pokrenutni skriptu "run.sh" i prosljediti joj 3 parametra u sljedecem obliku:
+
 			./run.sh \<naziv_input_filea1\> \<naziv_input_filea\> \<naziv_outputa>\>
 
 Primjer:
